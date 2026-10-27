@@ -1,0 +1,4 @@
+Superposition ChimeraX (matchmaker #1 to #2/A)
+Modèle : ACMV_CP_swissmodel.pdb
+Référence : 6EK5, chaîne A
+RMSD : 0,162 Å sur 183 paires de résidus
